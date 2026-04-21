@@ -8,7 +8,7 @@ The following python libraries are required:
 - matplotlib
 
 # Usage
-From the clone directory run:
+From the cloned ```profile_chimeras``` directory run:
 
 ```python profile_chimeras.py -p input_data/T7_B64_B65.fasta -c input_data/RA01_all_chimeras.fasta -j chimera_assembly_log.tsv -k <order>``` 
 
